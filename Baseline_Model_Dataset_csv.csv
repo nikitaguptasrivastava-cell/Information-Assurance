@@ -1,0 +1,10 @@
+﻿Transaction_ID,User_ID,Transaction_Amount,Transaction_Type,Time_of_Transaction,Device_Used,Location,Previous_Fraudulent_Transactions,Account_Age,Number_of_Transactions_Last_24H,Payment_Method,Fraudulent
+T1222,1519,2000,Online Purchase,10,Desktop,Miami,3,90,1,Credit Card,0
+T1473,4471,3090.95,Online Purchase,21,Mobile,Seattle,0,76,14,Credit Card,0
+T1782,1194,2647.53,Bank Transfer,6,Mobile,Chicago,4,53,12,Credit Card,0
+T2875,2054,2616.57,Online Purchase,6,Tablet,Los Angeles,0,115,14,Credit Card,0
+T4541,4954,4657.24,ATM Withdrawal,22,Desktop,New York,2,52,10,Credit Card,0
+T8861,4694,3081.49,Online Purchase,0,Mobile,San Francisco,2,44,6,Credit Card,1
+T9448,1002,14.61,Bill Payment,20,Desktop,Boston,3,49,11,Credit Card,0
+T10238,4535,477.72,POS Payment,12,Mobile,Houston,1,43,11,Credit Card,0
+T9,2638,2318.87,Bank Transfer,12,Mobile,Boston,4,110,12,Credit Card,0
